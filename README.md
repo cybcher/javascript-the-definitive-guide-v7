@@ -1,5 +1,7 @@
 # javascript-the-definitive-guide-v7
-Reading "Javascript: The Definitive Guide, Seventh Edition, by David Flanagan (O'Reilly). Copyright 2020 David Flanagan 978-1-491-95202-3" book and do some practice and notes here
+Reading "Javascript: The Definitive Guide, Seventh Edition, by David Flanagan (O'Reilly). Copyright 2020 David Flanagan 978-1-491-95202-3" book and write down some examples of code and notes here in this repository.
+
+Maybe will do ukrainian translation.
 
 ![The cover of JavaScript: The Definitive Guide](smallcover.jpg)
 
